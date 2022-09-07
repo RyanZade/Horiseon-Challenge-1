@@ -11,5 +11,5 @@ CSS files were used for site accessabilty and looks.
       - CSS file
 
 The HTML file should be accessable from the https link: https://ryanzade.github.io/Horiseon-Challenge-1/
-
+<img src="./assets/images/screenshot" alt="screenshot"/>
 RyanZade
